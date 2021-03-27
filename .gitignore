@@ -1,0 +1,14 @@
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/auth-course.iml
+/target/
